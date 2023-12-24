@@ -1,0 +1,27 @@
+{
+  "name": "cge_gui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MBHallgren/cge_gui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MBHallgren/cge_gui/issues"
+  },
+  "homepage": "https://github.com/MBHallgren/cge_gui#readme",
+  "devDependencies": {
+    "electron": "^28.1.0"
+  },
+  "dependencies": {
+    "requirejs": "^2.3.6"
+  }
+}
