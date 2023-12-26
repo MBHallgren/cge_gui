@@ -1,0 +1,10 @@
+{
+  "name": "cge_gui",
+  "productName": "cge_gui",
+  "version": "1.0.0",
+  "description": "A description of your app",
+  "categories": ["Utility"],
+  "maintainer": "Malte Hallgren malhal@dtu.dk",
+  "lintianOverrides": ["binary-without-manpage"]
+}
+
